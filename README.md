@@ -3,8 +3,10 @@
 
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuqmua&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="kuqmua" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="kuqmua" align = "center"/></p>
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="kuqmua" align = "center"/>
+</p>
 
 <!--
 **kuqmua/kuqmua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
