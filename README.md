@@ -1,7 +1,7 @@
 	
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=kuqmua&date_format=M%20j%5B%2C%20Y%5D" alt="kuqmua" /></p>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="kuqmua" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="kuqmua" align = "center"/></p>
 
 <p align="center"<a href="#"><img alt="Sergey Shmakov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
