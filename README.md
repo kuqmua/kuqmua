@@ -1,5 +1,5 @@
 	
-<h1 style="display: flex; justify-content: center; aligh-items: center;">
+<h1 >
 
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=kuqmua&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="kuqmua" />
 
