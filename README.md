@@ -1,9 +1,12 @@
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=kuqmua&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="kuqmua" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default" alt="kuqmua"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kuqmua&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="kuqmua" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default" alt="kuqmua"/>
 </p>
-
-<p align="center"<a href="#"><img alt="Sergey Shmakov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=ffffff&color=2e98ff&line=fffd51&point=0061ff&hide_border=true&" /></a></p>
+<p align="center"
+<a href="#">
+<img alt="Sergey Shmakov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=ffffff&color=2e98ff&line=fffd51&point=0061ff&hide_border=true&" />
+</a>
+</p>
 
 <!--
 **kuqmua/kuqmua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
