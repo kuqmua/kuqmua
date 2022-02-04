@@ -3,7 +3,7 @@
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="kuqmua" align = "center"/></p>
 
-<p align="center"<a href="#"><img alt="Sergey Shmakov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=ffffff&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Sergey Shmakov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=ffffff&color=e05397&line=fffd51&point=FFFFFF&hide_border=true&" /></a></p>
 
 
 
