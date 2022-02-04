@@ -4,7 +4,7 @@
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuqmua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default" alt="kuqmua"/> -->
 <p align="center"
 <a href="#">
-<img alt="Sergey Shmakov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=ffffff&color=2e98ff&line=fffd51&point=0061ff&hide_border=true&" />
+<img alt="Sergey Shmakov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kuqmua&bg_color=ffffff&color=58a6ff&line=0e4429&point=#39d353&hide_border=true&" />
 </a>
 </p>
 
