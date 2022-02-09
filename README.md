@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kuqmua&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&background=ffffff00&border=58a6ff&ring=58a6ff&fire=39d353&currStreakNum=39d353&sideNums=0e4429&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=58a6ff" alt="kuqmua" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kuqmua&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&background=ffffff00&border=39d353&ring=58a6ff&fire=58a6ff&currStreakNum=39d353&sideNums=0e4429&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=58a6ff" alt="kuqmua" />
 </p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kuqmua&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&background=ffffff00&border=58a6ff&ring=58a6ff&fire=39d353&currStreakNum=39d353&sideNums=0e4429&currStreakLabel=ff0000&sideLabels=00fffd&dates=1100ff)](https://git.io/streak-stats)  -->
